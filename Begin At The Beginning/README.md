@@ -3,4 +3,6 @@ Slides and colab notebooks from lectures I gave as a part of an international we
 
 Introduction to Data Science and the initial steps of the data science pipeline.
 
-![Minion](https://pbs.twimg.com/media/DgzdoWnXUAEMkUA.jpg)
+- __[Begin At The Beginning](https://www.youtube.com/watch?v=1Pnwj-w6XAw)__ - Lecture Video
+
+![alice](https://pbs.twimg.com/media/DgzdoWnXUAEMkUA.jpg)
